@@ -1,0 +1,3 @@
+Url,Local,user,pswd,ne,checkRotate
+/npamservice/v1/neaccount/details/,false,Administrator,TestPassw0rd,${nodes.radio.node1},true
+/npamservice/v1/neaccount/details/,false,Administrator,TestPassw0rd,${nodes.radio.node2},true

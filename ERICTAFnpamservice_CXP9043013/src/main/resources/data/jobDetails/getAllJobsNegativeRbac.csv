@@ -1,0 +1,2 @@
+Url,user,pswd,roles,expected
+/npamservice/v1/job/list,BS_nejobreader,CiaoCiao1,BS_npam_Credm_Administrator,"Access control decision: denied to invoke: read on resource: neaccount_job"

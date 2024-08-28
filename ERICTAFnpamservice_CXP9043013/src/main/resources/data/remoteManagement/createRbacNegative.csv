@@ -1,0 +1,2 @@
+Url,Local,user,pswd,expected,roles,jsonJob,jobType
+/npamservice/v1/job/create,false,BS_npam_Credm_Administrator,CiaoCiao1,"Access control decision: denied to invoke: create on resource: neaccount_job",Credm_Administrator,"{""name"":""jobName"",""description"":""Enable remote management job"",""jobType"":""CREATE_NE_ACCOUNT"",""mainSchedule"":{""scheduleAttributes"":[],""execMode"":""IMMEDIATE""},""selectedNEs"":{""neNames"": [""${nodes.radio.node1}""],""collectionNames"":[],""savedSearchIds"":[]}}",CREATE_NE_ACCOUNT

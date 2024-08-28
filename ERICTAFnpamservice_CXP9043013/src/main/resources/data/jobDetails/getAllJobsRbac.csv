@@ -1,0 +1,3 @@
+Url,user,pswd,roles
+/npamservice/v1/job/list,BS_npam_Administrator,CiaoCiao1,NPAM_Administrator
+/npamservice/v1/job/list,BS_nejobreader,CiaoCiao1,BlueSky_neaccount_job_read_role

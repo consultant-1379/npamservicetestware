@@ -1,0 +1,3 @@
+Url,Local,user,pswd,roles,expected,fileName
+/npamservice/v1/job/import/filelist,false,BS_npam_Credm_Administrator,CiaoCiao1,Credm_Administrator,"Access control decision: denied to invoke: query on resource: neaccount_import","importFile.csv"
+/npamservice/v1/job/import/filelist,false,BS_ESUM_snmpv3,CiaoCiao1,BlueSky_snpmv3role,"Access control decision: denied to invoke: query on resource: neaccount_import","importFile.csv"

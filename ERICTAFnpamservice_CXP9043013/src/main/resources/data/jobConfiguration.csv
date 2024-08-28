@@ -1,0 +1,2 @@
+Url,Local,user,pswd,scheduled
+/npamservice/v1/job/create,false,BS_jobconfig,CiaoCiao1,true

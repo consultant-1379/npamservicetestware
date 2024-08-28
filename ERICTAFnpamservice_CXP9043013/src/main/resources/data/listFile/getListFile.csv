@@ -1,0 +1,2 @@
+Url,Local,user,pswd,fileName
+/npamservice/v1/job/import/filelist,false,administrator,TestPassw0rd,"importFile.csv"

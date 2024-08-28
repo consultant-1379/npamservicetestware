@@ -1,0 +1,17 @@
+username,firstName,lastName,email,password,enabled,roles,passwordResetFlag,timeout
+BS_npam,BS_admin,BlueSky,desp.icable@ericsson.com,CiaoCiao1,true,"BlueSky_neaccount_read_role,SECURITY_ADMIN,ADMINISTRATOR",false,60
+BS_npam_ar,BS_admin_role,BlueSky,desp.icable@ericsson.com,CiaoCiao1,true,ADMINISTRATOR,false,60
+BS_npam_securityadmin,BS_securityadmin,BlueSky,desp.icable@ericsson.com,CiaoCiao1,true,"SECURITY_ADMIN",false,60
+BS_npam_Administrator,BS_npam_admin,BlueSky,desp.icable@ericsson.com,CiaoCiao1,true,NPAM_Administrator,false,60
+BS_npam_Credm_Administrator,BS_npam_Credm_Administrator,BlueSky,desp.icable@ericsson.com,CiaoCiao1,true,Credm_Administrator,false,60
+BS_npam_neaccount_job,BS_npam_neaccount_job,BlueSky,desp.icable@ericsson.com,CiaoCiao1,true,BlueSky_neaccount_job_role,false,60
+BS_npam_neaccount_import,neaccount_import,neaccount_import,desp.icable@ericsson.com,CiaoCiao1,true,BlueSky_neaccount_import_role,false,60
+BS_npam_neaccount_query_import,neaccount_query_import,neaccount_query_import,pippolino@gmail.com,CiaoCiao1,true,BlueSky_neaccount_import_query_role,false,60
+BS_npam_neaccount_read,neaccount_read,neaccount_read,desp.icable@ericsson.com,CiaoCiao1,true,BlueSky_neaccount_read_role,false,60
+BS_ESUM_snmpv3,BS_ESUM_snmpv3,BS_ESUM_snmpv3,miamail@ddd.com,CiaoCiao1,true,BlueSky_snpmv3role,false,60
+BS_TBAC_npamAdmin,BS_TBAC_npamAdmin,BS_TBAC_npamAdmin,piopio@pulcino.com,CiaoCiao1,true,NPAM_Administrator,false,60
+BS_TBAC_npamAdmin_ALL,BS_TBAC_npamAdmin_ALL,BS_TBAC_npamAdmin_ALL,pulce@er.com,CiaoCiao1,true,NPAM_Administrator,false,60
+BS_TBAC_npamAdmin_TG,BS_TBAC_npamAdmin_TG,BS_TBAC_npamAdmin_TG,pulcetg@er.com,CiaoCiao1,true,NPAM_Administrator,false,60
+BS_nejobreader,BS_nejobreader,BS_nejobreader,ciaiciao@mmydomain.com,CiaoCiao1,true,BlueSky_neaccount_job_read_role,false,60
+BS_jobconfig,BS_jobconfig,BS_jobconfig,ciaiciao@mmydomain.com,CiaoCiao1,true,"BlueSky_neaccount_job_read_role,BlueSky_neaccount_job_role",false,60
+BS_npam_export,BS_npam_export,BS_npam_export,ciaiciao@mmydomain.com,CiaoCiao1,true,BlueSky_neaccount_export_role,false,60

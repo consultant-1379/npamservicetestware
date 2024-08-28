@@ -1,0 +1,3 @@
+Url,Local,user,pswd,roles,json,expectedNeName,expectedExtStatus,expectedStatus,expectedCurrentUser,expected
+/npamservice/v1/neaccount,false,BS_npam_neaccount_read,CiaoCiao1,BlueSky_neaccount_read_role,"{""selectedNEs"":{""neNames"":[""${nodes.radio.node1}""],""collectionNames"":[],""savedSearchIds"":[]}}",${nodes.radio.node1},MANAGED,CONFIGURED,${nodes.radio.node1},[]
+/npamservice/v1/neaccount,false,BS_npam_Administrator,CiaoCiao1,NPAM_Administrator,"{""selectedNEs"":{""neNames"":[""${nodes.radio.node1}""],""collectionNames"":[],""savedSearchIds"":[]}}",${nodes.radio.node1},MANAGED,CONFIGURED,${nodes.radio.node1},[]

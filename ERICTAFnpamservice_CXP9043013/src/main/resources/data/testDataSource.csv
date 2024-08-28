@@ -1,0 +1,50 @@
+testId,teamName,testCaseId,nodeType,ACs
+4,BlueSky,"TORF-626610_Funct1",Not Applicable,AC4
+5,BlueSky,"TORF-626610_Funct1",Not Applicable,AC5
+6,BlueSky,"TORF-626610_Funct1",Not Applicable,AC6
+2,BlueSky,"TORF-626610_Funct1",Not Applicable,AC2
+1,BlueSky,"TORF-626593_RBAC_on_REST_for_create_Job",Not Applicable,AC1
+3,BlueSky,"TORF-626593_RBAC_on_REST_for_create_Job ",Not Applicable,AC2
+7,BlueSky,"TORF-626593_RBAC_on_REST_for_create_Job ",Not Applicable,AC3
+8,BlueSky,"TORF-626593_RBAC_on_REST_for_create_Job ",Not Applicable,AC4
+12,BlueSky,"TORF-625964_RBAC_on_REST_for_NEAccounts",Not Applicable,AC1
+13,BlueSky,"TORF-625964_RBAC_on_REST_for_NEAccounts",Not Applicable,AC2
+14,BlueSky,"TORF-625964_RBAC_on_REST_for_NEAccounts",Not Applicable,AC3
+10,BlueSky,"TORF-631941_RBAC_for_import_file_and_list_imported_file ",Not Applicable,AC1 and AC2
+11,BlueSky,"TORF-631941_RBAC_for_import_file_and_list_imported_file ",Not Applicable,AC13
+15,BlueSky,"TORF-631941_RBAC_for_import_file_and_list_imported_file ",Not Applicable,AC5
+16,BlueSky,"TORF-631941_RBAC_for_import_file_and_list_imported_file ",Not Applicable,AC7
+17,BlueSky,"TORF-631941_RBAC_for_import_file_and_list_imported_file ",Not Applicable,AC10
+18,BlueSky,"TORF-631941_RBAC_for_import_file_and_list_imported_file ",Not Applicable,AC11
+20,BlueSky,"TORF-631941_RBAC_for_import_file_and_list_imported_file ",Not Applicable,AC14
+21,BlueSky,"TORF-631941_RBAC_for_import_file_and_list_imported_file ",Not Applicable,AC7 bis
+22,BlueSky,"TORF-631793_REST_for_rotation_job_with_user_and_password",Not Applicable,AC3
+23,BlueSky,"TORF-631793_REST_for_rotation_job_with_user_and_password",Not Applicable,AC2
+24,BlueSky,"TORF-626801_REST_DISABLE_REMOTE_MANAGEMENT_job_creation",Not Applicable,AC1
+25,BlueSky,"TORF-626801_REST_DISABLE_REMOTE_MANAGEMENT_job_creation",Not applicable,"AC2,AC4,AC6,AC8"
+26,BlueSky,"TORF-632005_UPDATE_WITH_AUTO_GENERATED_PASSWORD_job_creation",Not applicable,AC1
+27,BlueSky,"TORF-632005_UPDATE_WITH_AUTO_GENERATED_PASSWORD_job_creation",Not applicable,"AC2,4,6,8,9,16,17,18"
+28,BlueSky,"TORF-625965_TBAC_NEAccount",Not Applicable,
+29,BlueSky,"TORF-628603_Funct1_RBAC_on_REST_for_NEAccounts",Not Applicable,AC1
+30,BlueSky,"TORF-628603_Funct1_RBAC_on_REST_for_NEAccounts",Not Applicable,AC2
+31,BlueSky,"TORF-628603_Funct1_RBAC_on_REST_for_NEAccounts",Not Applicable,AC3
+32,BlueSky,"TORF-628605_TBAC_NEAccount_attributes",Not Applicable,AC1
+33,BlueSky,"TORF-628605_TBAC_NEAccount_attributes",Not Applicable,AC2
+34,BlueSky,"TORF-628605_TBAC_NEAccount_attributes",Not Applicable,AC3
+35,BlueSky,"TORF-626584_Funct1",Not Applicable,AC1
+36,BlueSky,"TORF-626584_Funct1",Not Applicable,AC3
+37,BlueSky,"TORF-639561_Funct1",Not Applicable,AC1
+38,BlueSky,"TORF-626594_Funct1",Not Applicable,AC1
+39,BlueSky,"TORF-626594_Funct1",Not Applicable,AC2
+40,BlueSky,"TORF-626594_Funct1",Not Applicable,AC3
+41,BlueSky,"TORF-639561_Funct1",Not Applicable,AC5
+42,BlueSky,"TORF-639561_Funct1",Not Applicable,AC3
+43,BlueSky,"TORF-639561_Funct1",Not Applicable,AC4
+44,BlueSky,"TORF-639561_Funct1",Not Applicable,AC2
+9,BlueSky,"TORF-626584_Funct1",Not Applicable,
+45,BlueSky,"TORF-644275_Rest_For_Job_Configuration_Data",Not Applicable,
+46,BlueSky,TORF-644271_Rest_For_NeJob_List,Not Applicable,AC1 and AC2
+47,BlueSky,"TORF-639561_Funct1",Not Applicable,
+48,BlueSky,"TORF-647509_Rbac_Tbac_Export_NEAccounts",Not Applicable,AC1
+49,BlueSky,"TORF-647564_Funct1",Not Applicable,AC1
+

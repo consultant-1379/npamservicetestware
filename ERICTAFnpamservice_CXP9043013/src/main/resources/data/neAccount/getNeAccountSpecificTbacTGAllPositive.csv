@@ -1,0 +1,2 @@
+Url,Local,user,pswd,roles,ne,plainText
+/npamservice/v1/neaccount/details/,false,BS_TBAC_npamAdmin_ALL,CiaoCiao1,NPAM_Administrator,${nodes.radio.node1},true

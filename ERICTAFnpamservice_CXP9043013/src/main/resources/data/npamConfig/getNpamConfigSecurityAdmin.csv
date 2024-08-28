@@ -1,0 +1,4 @@
+Url,Local,user,pswd,roles,context1,context,expected
+/npamservice/v1/npamconfig,false,BS_npam_securityadmin,CiaoCiao1,SECURITY_ADMIN,enabled,positive,"[{""name"":""npam"",""value"":""enabled""}]"
+/npamservice/v1/npamconfig,false,BS_npam_securityadmin,CiaoCiao1,SECURITY_ADMIN,disabled,positive,"[{""name"":""npam"",""value"":""disabled""}]"
+

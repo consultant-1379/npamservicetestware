@@ -1,0 +1,2 @@
+Url,user,pswd,jsonJob,jobType
+/npamservice/v1/job/create,administrator,TestPassw0rd,"{""name"":""jobName"",""description"":""Update password job"",""jobType"":""ROTATE_NE_ACCOUNT_CREDENTIALS"",""mainSchedule"":{""scheduleAttributes"":[],""execMode"":""IMMEDIATE""},""jobProperties"":[{""key"":""USERNAME"",""value"":""administrator""},{""key"":""PASSWORD"",""value"":""L0J6)ZabcO9D8""}],""selectedNEs"":{""neNames"":[""${nodes.radio.node1}""],""collectionNames"":[],""savedSearchIds"":[]}}",ROTATE_NE_ACCOUNT_CREDENTIALS

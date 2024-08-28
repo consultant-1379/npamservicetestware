@@ -1,0 +1,2 @@
+Url,Local,user,pswd,context1,context,expected,json
+/npamservice/v1/npamconfig,false,administrator,TestPassw0rd,enabled,positive,"[{""name"":""npam"",""value"":""enabled""}]","[{""name"":""npam"",""value"":""enabled""}]"

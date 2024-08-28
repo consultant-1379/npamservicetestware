@@ -1,0 +1,4 @@
+Url,Local,user,pswd,json,expected,expectedCurrentUser,expectedNeName,expectedId,expectedStatus,expectedExtStatus
+/npamservice/v1/neaccount?id=1&neNpamStatus=NOT_MANAGED,false,administrator,TestPassw0rd,"{""selectedNEs"":{""neNames"":[""${nodes.radio.node5}""],""collectionNames"":[],""savedSearchIds"":[]}}",,${nodes.radio.node5},${nodes.radio.node5},,,NOT_MANAGED
+/npamservice/v1/neaccount?id=1&neNpamStatus=NOT_SUPPORTED,false,administrator,TestPassw0rd,"{""selectedNEs"":{""neNames"":[""${nodes.radio.node5}""],""collectionNames"":[],""savedSearchIds"":[]}}",[],,,,,
+/npamservice/v1/neaccount?id=1&neNpamStatus=MANAGED,false,administrator,TestPassw0rd,"{""selectedNEs"":{""neNames"":[""${nodes.radio.node5}""],""collectionNames"":[],""savedSearchIds"":[]}}",[],,,,,

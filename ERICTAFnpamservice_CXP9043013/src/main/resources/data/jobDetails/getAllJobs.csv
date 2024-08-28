@@ -1,0 +1,2 @@
+Url,Expected,user,pswd
+/npamservice/v1/job/list,200,administrator,TestPassw0rd

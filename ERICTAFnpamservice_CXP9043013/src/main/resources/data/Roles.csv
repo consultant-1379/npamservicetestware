@@ -1,0 +1,8 @@
+type,name,description,status,policy,assignedRoles
+custom,BlueSky_neaccount_read_role,"Role to get Ne account",ENABLED,"{""neaccount"":[""read""]}}",
+custom,BlueSky_neaccount_import_role,"Role to execute import job",ENABLED,"{""neaccount_import"":[""execute""]}}",
+custom,BlueSky_neaccount_job_read_role,"Role to manage job for Ne account in read mode",ENABLED,"{""neaccount_job"":[""read""]}}",
+custom,BlueSky_neaccount_job_role,"Role to manage job for Ne account",ENABLED,"{""neaccount_job"":[""create""]}}",
+custom,BlueSky_snpmv3role,"Role not managing ESUM",ENABLED,"{""snmpv3"":[""update""],""snmpv3_plain_text"":[""read""]}}",
+custom,BlueSky_neaccount_import_query_role,"Role to execute import query job",ENABLED,"{""neaccount_import"":[""query""]}}",
+custom,BlueSky_neaccount_export_role,"Role to execute export job",ENABLED,"{""neaccount_export"":[""execute""]}}",

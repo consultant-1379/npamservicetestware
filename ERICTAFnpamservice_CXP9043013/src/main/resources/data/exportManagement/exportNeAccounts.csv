@@ -1,0 +1,2 @@
+Url,user,pswd,json,roles
+/npamservice/v1/neaccount/export?id=1&neNpamStatus=MANAGED&neNpamStatus=NOT_MANAGED,BS_npam_export,CiaoCiao1,"{""encryptionKey"":""myKey1234"",""selectedNEs"":{""neNames"":[""${nodes.radio.node1}"",""${nodes.radio.node2}""],""collectionNames"":[],""savedSearchIds"":[]}}",BlueSky_neaccount_export_role

@@ -1,0 +1,2 @@
+Url,Local,user,pswd,roles,fileName
+/npamservice/v1/job/import/filelist,false,BS_npam_neaccount_query_import,CiaoCiao1,BlueSky_neaccount_import_query_role,"importFile.csv"

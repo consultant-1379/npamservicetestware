@@ -1,0 +1,3 @@
+Url,Local,user,pswd,roles,ne,plainText
+/npamservice/v1/neaccount/details/,false,BS_npam_neaccount_read,CiaoCiao1,BlueSky_neaccount_read_role,${nodes.radio.node1},false
+/npamservice/v1/neaccount/details/,false,BS_npam_Administrator,CiaoCiao1,NPAM_Administrator,${nodes.radio.node1},true

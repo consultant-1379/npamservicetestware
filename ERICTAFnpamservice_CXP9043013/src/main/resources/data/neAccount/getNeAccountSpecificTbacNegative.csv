@@ -1,0 +1,3 @@
+Url,Local,user,pswd,roles,ne,expected
+/npamservice/v1/neaccount/details/,false,BS_TBAC_npamAdmin_TG,CiaoCiao1,NPAM_Administrator,${nodes.radio.node3},"NetworkElement not found."
+

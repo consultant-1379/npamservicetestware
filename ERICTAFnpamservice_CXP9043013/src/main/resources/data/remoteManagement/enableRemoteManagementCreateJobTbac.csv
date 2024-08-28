@@ -1,0 +1,2 @@
+Url,user,pswd,jsonJob,jobType
+/npamservice/v1/job/create,administrator,TestPassw0rd,"{""name"":""jobName"",""description"":""Enable remote management job"",""jobType"":""CREATE_NE_ACCOUNT"",""mainSchedule"":{""scheduleAttributes"":[],""execMode"":""IMMEDIATE""},""selectedNEs"":{""neNames"":[""${nodes.radio.node1}""],""collectionNames"":[],""savedSearchIds"":[]}}",CREATE_NE_ACCOUNT

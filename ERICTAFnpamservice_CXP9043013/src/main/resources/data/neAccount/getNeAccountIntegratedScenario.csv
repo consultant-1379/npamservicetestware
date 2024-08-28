@@ -1,0 +1,2 @@
+Url,Local,user,pswd,json,expectedNeName,expectedExtStatus,expectedStatus,expectedCurrentUser
+/npamservice/v1/neaccount,false,administrator,TestPassw0rd,"{""selectedNEs"":{""neNames"":[""${nodes.radio.node1}""],""collectionNames"":[],""savedSearchIds"":[]}}",${nodes.radio.node1},MANAGED,CONFIGURED,${nodes.radio.node1}

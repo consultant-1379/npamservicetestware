@@ -1,0 +1,10 @@
+hostName,suiteName,nodeOperatorType,nodeType,platformType,networkElementId,ossModelIdentity,ossPrefix,port,transportType,snmpAgentPort,snmpVersion,rootUserName,rootUserPassword,secureUserName,secureUserPassword,normalUserName,normalUserPassword
+netsim,ESUM_LongLoop_Blue_Sky,NETSIM,RadioNode,,${nodes.radio.node1},,,6513,TLS,161,SNMP_V2C,,,netsim,netsim,,
+netsim,ESUM_LongLoop_Blue_Sky,NETSIM,RadioNode,,${nodes.radio.node2},,,6513,TLS,161,SNMP_V2C,,,netsim,netsim,,
+netsim,ESUM_LongLoop_Blue_Sky,NETSIM,RadioNode,,${nodes.radio.node3},,,6513,TLS,161,SNMP_V2C,,,netsim,netsim,,
+netsim,ESUM_LongLoop_Blue_Sky,NETSIM,RadioNode,,${nodes.radio.node4},,,6513,TLS,161,SNMP_V2C,,,netsim,netsim,,
+#Node supporting ESUM feature but never enabled for NE account
+netsim,ESUM_LongLoop_Blue_Sky,NETSIM,RadioNode,,${nodes.radio.node5},,,6513,TLS,161,SNMP_V2C,,,netsim,netsim,,
+#Node not supporting ESUM feature
+#netsim,ESUM_LongLoop_Blue_Sky,NETSIM,RadioNode,,${nodes.radio.node6},,,6513,TLS,161,SNMP_V2C,,,netsim,netsim,,
+

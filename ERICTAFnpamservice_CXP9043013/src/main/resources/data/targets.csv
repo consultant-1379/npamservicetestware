@@ -1,0 +1,2 @@
+targets,targetGroup,expected,username,password
+"${nodes.radio.node1},${nodes.radio.node2}",BS_TBAC_ESUM_TG,OK,administrator,TestPassw0rd

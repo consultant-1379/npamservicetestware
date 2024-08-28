@@ -1,0 +1,2 @@
+Url,Local,user,pswd,jsonJob,jobType
+/npamservice/v1/job/create,false,administrator,TestPassw0rd,"{""name"":""jobName"",""description"":""Disable Remote management job"",""jobType"":""DETACH_NE_ACCOUNT"",""mainSchedule"":{""scheduleAttributes"":[],""execMode"":""IMMEDIATE""},""selectedNEs"":{""neNames"":[""${nodes.radio.node3}"",""${nodes.radio.node5}""],""collectionNames"":[],""savedSearchIds"":[]}}",DETACH_NE_ACCOUNT

@@ -1,0 +1,2 @@
+Url,Local,user,pswd,ne
+/npamservice/v1/neaccount/details/,false,Administrator,TestPassw0rd,${nodes.radio.node1}

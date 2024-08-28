@@ -1,0 +1,2 @@
+Url,Local,Expected,user,pswd,jsonJob,jobType
+/npamservice/v1/job/list/notexisting,false,"{""userMessage"":""Job name Not Found."",""internalErrorCode"":4301,""errorDetails"":""notexisting""}",administrator,TestPassw0rd,"{""name"":""jobName"",""description"":""Enable remote management job"",""jobType"":""CREATE_NE_ACCOUNT"",""mainSchedule"":{""scheduleAttributes"":[],""execMode"":""IMMEDIATE""},""selectedNEs"":{""neNames"": [""${nodes.radio.node1}""],""collectionNames"":[],""savedSearchIds"":[]}}",CREATE_NE_ACCOUNT

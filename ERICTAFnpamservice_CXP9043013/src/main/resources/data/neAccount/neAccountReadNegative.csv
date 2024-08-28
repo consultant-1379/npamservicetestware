@@ -1,0 +1,2 @@
+Url,Local,user,pswd,expected,roles,jsonInput
+/npamservice/v1/neaccount,false,BS_npam_Credm_Administrator,CiaoCiao1,"Access control decision: denied to invoke: read on resource: neaccount",Credm_Administrator,"{""selectedNEs"":{""neNames"":[""${nodes.radio.node1}"",""${nodes.radio.node2}""],""collectionNames"":[],""savedSearchIds"":[]}}"

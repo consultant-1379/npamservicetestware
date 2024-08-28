@@ -1,0 +1,2 @@
+context,context1,Url,Local,user,pswd,expected,roles,json
+negative,enabled,/npamservice/v1/npamconfig,false,BS_npam_Administrator,CiaoCiao1,"Access control decision: denied to invoke: read on resource: npam_config",NPAM_Administrator,"[{""name"":""npam"",""value"":""enabled""}]"

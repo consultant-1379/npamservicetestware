@@ -1,0 +1,3 @@
+Url,user,pswd,expected,roles,fileName
+"/npamservice/v1/job/import/file?overwrite=true",BS_npam_Credm_Administrator,CiaoCiao1,"Access control decision: denied to invoke: execute on resource: neaccount_import",Credm_Administrator,"importFile.csv"
+"/npamservice/v1/job/import/file?overwrite=true",BS_npam_neaccount_read,CiaoCiao1,"Access control decision: denied to invoke: execute on resource: neaccount_import",BlueSky_neaccount_read_role,"importFile.csv"

@@ -1,0 +1,2 @@
+Url,Local,user,pswd,json,expected,expectedCurrentUser,expectedNeName,expectedId,expectedStatus
+npamservice/v1/neaccount?id=1&neNpamStatus=FAKE,false,administrator,TestPassw0rd,"{""selectedNEs"":{""neNames"":[""${nodes.radio.node1}""],""collectionNames"":[],""savedSearchIds"":[]}}","Internal Server Error",,,,

@@ -1,0 +1,2 @@
+filesToCopy,destinationPath,destinationFile,nes,myKey
+ESUM_TAF_export_NeAccount,"/tmp/ESUM_BlueSky/",ESUM_TAF_export_NeAccount.decoded,"${nodes.radio.node1},${nodes.radio.node2}",myKey1234

@@ -1,0 +1,85 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="ESUM_LongLoop - Blue Sky" parallel="tests"
+    thread-count="1">
+    <listeners>
+        <listener
+            class-name="com.ericsson.oss.services.security.npam.listener.TestReportObject" />
+    </listeners>
+
+    <test name="Before and After test methods">
+        <classes>
+            <class
+                name="com.ericsson.oss.services.security.npam.scenario.BeforeAfterTest" />
+        </classes>
+    </test>
+
+    <test name="RBAC NPAM Config management Tests">
+        <classes>
+            <class
+                name="com.ericsson.oss.services.security.npam.scenario.RbacNpamConfigScenario" />
+        </classes>
+    </test>
+
+    <test name="RBAC NPAM Job management Tests">
+        <classes>
+            <class
+                name="com.ericsson.oss.services.security.npam.scenario.RbacNpamJobCreationScenario" />
+        </classes>
+    </test>
+
+    <test name="RBAC NPAM Import Management Tests">
+        <classes>
+            <class
+                name="com.ericsson.oss.services.security.npam.scenario.RbacImportFileAndListScenario" />
+        </classes>
+    </test>
+
+    <test name="RBAC NPAM NE Account Management Tests">
+        <classes>
+            <class
+                name="com.ericsson.oss.services.security.npam.scenario.RbacNeAccountManagementScenario" />
+        </classes>
+    </test>
+
+    <test name="TBAC NPAM Job management Tests">
+        <classes>
+            <class
+                name="com.ericsson.oss.services.security.npam.scenario.TbacNeAccountManagementScenario" />
+        </classes>
+    </test>
+
+    <test name="NPAM Job management Tests">
+        <classes>
+            <class
+                name="com.ericsson.oss.services.security.npam.scenario.NpamJobListScenario" />
+        </classes>
+    </test>
+
+    <test name="NPAM RBAC Job List Tests">
+        <classes>
+             <class
+                 name="com.ericsson.oss.services.security.npam.scenario.RbacNpamJobListScenario" />
+        </classes>
+    </test>
+
+    <test name="NPAM TBAC Export Tests">
+        <classes>
+            <class
+                name="com.ericsson.oss.services.security.npam.scenario.TbacExportManagementScenario" />
+        </classes>
+    </test>
+
+    <test name="NPAM Cancel Job Tests">
+        <classes>
+            <class
+                name="com.ericsson.oss.services.security.npam.scenario.CancelJobManagementScenario" />
+        </classes>
+    </test>
+
+    <test name="Integrated NPAM managements Tests">
+        <classes>
+            <class
+                name="com.ericsson.oss.services.security.npam.scenario.JobandNeAccountManagementRestScenario" />
+        </classes>
+    </test> 
+</suite>

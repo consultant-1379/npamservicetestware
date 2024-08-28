@@ -1,0 +1,2 @@
+createUrl,cancelUrl,Local,user,pswd,json
+/npamservice/v1/job/create,/npamservice/v1/job/cancel/,false,administrator,TestPassw0rd,"{""name"":""jobName"",""description"":""Cancel job"",""jobType"":""CREATE_NE_ACCOUNT"",""mainSchedule"":{""scheduleAttributes"":[ {""name"":""START_DATE"",""value"":""date""}],""execMode"":""SCHEDULED""},""selectedNEs"":{""neNames"":[""${nodes.radio.node1}""],""collectionNames"":[],""savedSearchIds"":[]}}"

@@ -1,0 +1,5 @@
+usersToUpdate,targetGroupName,roleName,username,password,firstName,lastName,description,email,enabled,passwordResetFlag,roles
+BS_TBAC_npamAdmin,BS_TBAC_ESUM_TG,NPAM_Administrator,BS_TBAC_npamAdmin,CiaoCiao1,BS_TBAC_npamAdmin,BS_TBAC_npamAdmin,"",piopio@pulcino.com,true,false,NPAM_Administrator
+BS_TBAC_npamAdmin_ALL,ALL,NPAM_Administrator,BS_TBAC_npamAdmin_ALL,CiaoCiao1,BS_TBAC_npamAdmin_ALL,BS_TBAC_npamAdmin_ALL,"","pulci@no.com",true,false,NPAM_Administrator
+BS_TBAC_npamAdmin_TG,BS_TBAC_ESUM_TG,NPAM_Administrator,BS_TBAC_npamAdmin_TG,CiaoCiao1,BS_TBAC_npamAdmin_TG,BS_TBAC_npamAdmin_TG,"","pulci@no.com",true,false,NPAM_Administrator
+BS_npam_export,BS_TBAC_ESUM_TG,BlueSky_neaccount_export_role,BS_npam_export,CiaoCiao1,BS_npam_export,BS_npam_export,"","pulci@no.com",true,false,BlueSky_neaccount_export_role
